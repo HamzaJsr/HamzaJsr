@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaJsr
-- 👀 I’m interested in web devlopemen 
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in web devlopement
+- 🌱 I’m currently learning JavaScript React & NodeJs
 - 💞️ I’m looking to collaborate on... (soon)
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
